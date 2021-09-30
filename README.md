@@ -13,6 +13,8 @@
 📫 How to reach me
  - Please reach out to me by email: kratik@ucla.edu
 
+My Resume: https://bit.ly/KratikResume
+
 <!---
 kratik-agrawal/kratik-agrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
