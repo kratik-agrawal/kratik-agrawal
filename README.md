@@ -1,4 +1,4 @@
-👋 Hi, I’m @kratik-agrawal. I'm a second year student at UCLA majoring in Computer Science and minoring in Entrepreneuership.
+👋 Hi, I’m @kratik-agrawal. I'm a third year student at UCLA majoring in Computer Science.
 
 👀 I’m interested in 
  - Product Engineering
@@ -13,7 +13,7 @@
 📫 How to reach me
  - Please reach out to me by email: kratik@ucla.edu
 
-My Resume: https://bit.ly/KratikResume
+My Resume: https://bit.ly/kratikresume
 
 <!---
 kratik-agrawal/kratik-agrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
